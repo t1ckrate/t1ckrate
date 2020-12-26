@@ -22,8 +22,12 @@ Once again, everything is detailled on my [website](https://t1ckrate.fr) !
 
 ### What's on my GitHub ?
 
-I'll try to upload my personal projects on my GitHub. As a young developer and a perfectionnist, i'm not comfortable about sharing a code that i always find ugly 
+I'll try to upload my personal projects on my GitHub. As a young developer and a perfectionnist, i'm not comfortable about sharing a code that i always find ugly. 
 As the months go by, I'm getting better and I'm starting to be proud of my codes. :dizzy:
+
+### What's on my GitLab ?
+
+I use GitLab for [Elity](https://elity.fr). Repositories are not shown, but statistics about my contribution are visible by anyone. [Check this out](https://gitlab.com/t1ckrate) !
 
 ### Get in touch
 
